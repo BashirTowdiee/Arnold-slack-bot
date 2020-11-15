@@ -1,6 +1,6 @@
 [
 	{
-		"question": "Harmful programs used to disrupt computer operation, gather sensitive information, or gain unauthorized access to computer systems are commonly referred to as",
+		"question": "Harmful programs used to disrupt computer operation, gather sensitive information, or gain unauthorized access to computer systems are commonly referred to as.",
         "answerOptions": [
             "Adware",
             "Malware",
@@ -10,44 +10,44 @@
         "answer": "Malware",
         "answerDescription": "Malware is the collective name for a number of malicious software variants, including viruses, ransomware and spyware. Shorthand for malicious software, designed to cause extensive damage to data and systems or to gain unauthorized access to a network.",
         "quizCount": "01",
-        "date": "15/11/2020"
+        "date": "16/11/2020"
 	},
 	{
-		"question": "",
+		"question": "Which of these best describes two-factor authentication",
         "answerOptions": [
-            "",
-            "",
-            "",
-            ""
+            "A printer that uses a password and a PIN.",
+            "The door to a building that requires a fingerprint scan.",
+            "An application that checks your GPS coordinates.",
+            "A Windows Domain that requires a username, password, and smart card."
         ],
-        "answer": "",
-        "answerDescription": "",
+        "answer": "A Windows Domain that requires a username, password, and smart card.",
+        "answerDescription": "The multiple factors of authentication used to login to this Windows Domain are a password (something you know), and a smart card (something you have)",
         "quizCount": "02",
         "date": "17/11/2020"
 	},
 	{
-		"question": "",
+		"question": "One of the computers in the shipping department is showing signs of a malware infection. Which of the following would be the BEST next step to completely remove the malware.",
         "answerOptions": [
-            "",
-            "",
-            "",
-            ""
+            "Run a virus scan.",
+            "Degauss the hard drive.",
+            "Format the system partition.",
+            "Reimage the computer."
         ],
-        "answer": "",
-        "answerDescription": "",
+        "answer": "Reimage the computer",
+        "answerDescription": "Completely wiping the drive with a new image is an effective way to completely remove any malware from a computer.",
         "quizCount": "03",
         "date": "18/11/2020"
 	},
 	{
-		"question": "",
+		"question": "Sam, the manager of the accounting department, has opened a helpdesk ticket complaining of poor system performance and excessive pop-up messages. Her cursor is also moving without anyone touching the mouse. This issue began after Sam opened a spreadsheet from a vendor containing part numbers and pricing information. Sam recalls clicking through a number of warning messages before the spreadsheet would open. Which of the following is MOST likely the cause of Sam’s issues.",
         "answerOptions": [
-            "",
-            "",
-            "",
-            ""
+            "Man-in-the-middle",
+            "Worm",
+            "RAT",
+            "Logic bomb"
         ],
-        "answer": "",
-        "answerDescription": "",
+        "answer": "RAT",
+        "answerDescription": "A RAT (Remote Access Trojan) is malware that can control a computer using desktop sharing and other administrative functions. Because the installation program is often disguised as something else, the victim often doesn’t realize they’re installing malware. Once the RAT is installed, the attacker can control the desktop, capture screenshots, reboot the computer, and many other administrative functions.",
         "quizCount": "04",
         "date": "19/11/2020"
 	},

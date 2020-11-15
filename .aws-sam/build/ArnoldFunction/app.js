@@ -16,12 +16,15 @@ exports.lambdaHandler = async () => {
         timeZone: "Australia/Melbourne",
       });
       const timeSplit = time.split(":");
-
+      console.log('Lambda activated');
       if (timeSplit[0] === 11) {
+        console.log('Lambda run wordOfTheDay');
         return wordOfTheDay();
       } else if (timeSplit[0] === 12) {
+        console.log('Lambda run popQuiz');
         return popQuiz();
       } else if (timeSplit[0] === 14) {
+        console.log('Lambda run popQuizAnswer');
         return popQuizAnswer();
       }
     } catch (err) {
@@ -33,7 +36,7 @@ exports.lambdaHandler = async () => {
 
 const initializeConfig = async () => {
   let ssm = new AWS.SSM();
-  success = true;
+  let success = true;
 
   let webhook = {
     Name: "/arnold/slack-webhook",
