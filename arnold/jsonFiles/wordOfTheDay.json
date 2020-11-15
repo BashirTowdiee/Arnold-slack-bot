@@ -1,0 +1,142 @@
+[
+	{
+		"word": "Polymorphic Malware",
+        "definition": "A polymorphic virus is a type of malware that can change or morph, making it difficult to detect with antimalware programs. They can evolve in a variety of ways such as filename changes, compression, and encryption with variable keys",
+        "date": "16/11/2020"
+	},
+	{
+		"word": "Virus Malware",
+        "definition": "Like their biological namesakes, viruses attach themselves to clean files and infect other clean files. They can spread uncontrollably, damaging a system’s core functionality and deleting or corrupting files. They usually appear as an executable file (.exe).",
+        "date": "17/11/2020"
+	},
+	{
+		"word": "Trojan Malware",
+        "definition": "This kind of malware disguises itself as legitimate software, or is hidden in legitimate software that has been tampered with. It tends to act discreetly and create backdoors in your security to let other malware in",
+        "date": "18/11/2020"
+	},
+	{
+		"word": "Spyware",
+        "definition": "No surprise here — spyware is malware designed to spy on you. It hides in the background and takes notes on what you do online, including your passwords, credit card numbers, surfing habits, and more.",
+        "date": "19/11/2020"
+	},
+	{
+		"word": "Worm Malware",
+        "definition": "Worms infect entire networks of devices, either local or across the internet, by using network interfaces. It uses each consecutively infected machine to infect others.",
+        "date": "20/11/2020"
+	},
+	{
+		"word": "RansomWare",
+        "definition": "This kind of malware typically locks down your computer and your files, and threatens to erase everything unless you pay a ransom.",
+        "date": "23/11/2020"
+	},
+	{
+		"word": "Adware",
+        "definition": "Though not always malicious in nature, aggressive advertising software can undermine your security just to serve you ads — which can give other malware an easy way in. Plus, let’s face it: pop-ups are really annoying.",
+        "date": "24/11/2020"
+	},
+	{
+		"word": "Botnet Malware",
+        "definition": "Botnets are networks of infected computers that are made to work together under the control of an attacker.",
+        "date": "25/11/2020"
+	},
+	{
+		"word": "Armored Virus Malware",
+        "definition": "A computer virus designed to be very difficult to reverse engineer and analyze. It is overly large, because it contains a large amount of misleading logic in order to foil attempts to figure out its mission. See virus.",
+        "date": "26/11/2020"
+	},
+	{
+		"word": "Crypto Malware",
+        "definition": "Crypto-malware is one of the latest malware threats, and it's particularly insidious because, unlike ransomware, it can go about doing its work completely undetected. The goal of a crypto-malware isn't to steal data – it is to remain in place for as long as possible, quietly mining in the background. Cryptojacking.",
+        "date": "27/11/2020"
+	},
+	{
+		"word": "Rootkit Malware",
+        "definition": "Form of malware designed specifically to modify operating systems to facilitiate non-standard functionality. They can remain hidden on your computer. But while you might not notice them, they are active. Rootkits give cybercriminals the ability to remotely control your computer. ... You might also accidentally download a rootkit through an infected mobile app. ",
+        "date": "30/11/2020"
+	},
+	{
+		"word": "Keylogger Malware",
+        "definition": "A keylogger monitors each keystroke of the user. The malware keeps track of the keystroke and saves the user's information locally – later the hacker requires physical access to retriever the stored user information.",
+        "date": "1/12/2020"
+	},
+	{
+		"word": "Remote Access Trojan (RAT) Malware",
+        "definition": "A remote access Trojan (RAT) is a malware program that includes a back door for administrative control over the target computer. RATs are usually downloaded invisibly with a user-requested program -- such as a game -- or sent as an email attachment. Once the host system is compromised, the intruder may use it to distribute RATs to other vulnerable computers and establish a botnet.",
+        "date": "2/12/2020"
+	},
+	{
+		"word": "Logic Bomb Malware",
+        "definition": "A logic bomb is a malicious program that is triggered when a logical condition is met, such as after a number of transactions have been processed, or on a specific date (also called a time bomb). Malware such as worms often contain logic bombs, behaving in one manner, then changing tactics on a specific date and time.",
+        "date": "3/12/2020"
+	},
+	{
+		"word": "Backdoor Malware",
+        "definition": "A backdoor is a malware type that negates normal authentication procedures to access a system. As a result, remote access is granted to resources within an application, such as databases and file servers, giving perpetrators the ability to remotely issue system commands and update malware.",
+        "date": "4/12/2020"
+	},
+	{
+		"word": "Phishing Attack",
+        "definition": "What is a phishing attack. Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message.",
+        "date": "7/12/2020"
+	},
+	{
+		"word": "Spear Phishing Attack",
+        "definition": "Spear phishing is an email or electronic communications scam targeted towards a specific individual, organization or business. Although often intended to steal data for malicious purposes, cybercriminals may also intend to install malware on a targeted user's computer.",
+        "date": "8/12/2020"
+	},
+	{
+		"word": "Whaling Attack",
+        "definition": "A whaling attack is a method used by cybercriminals to masquerade as a senior player at an organization and directly target senior or other important individuals at an organization, with the aim of stealing money or sensitive information or gaining access to their computer systems for criminal purposes. Also known as CEO fraud, whaling is similar to phishing in that it uses methods such as email and website spoofing to trick a target into performing specific actions, such as revealing sensitive data or transferring money.",
+        "date": "9/12/2020"
+	},
+	{
+		"word": "Vishing Attack",
+        "definition": "Vishing definition: Vishing (voice phishing) is a type of phishing attack that is conducted by phone and often targets users of Voice over IP (VoIP) services like Skype",
+        "date": "10/12/2020"
+	},
+	{
+		"word": "Dumpster diving",
+        "definition": "In the world of information technology, dumpster diving is a technique used to retrieve information that could be used to carry out an attack on a computer network. Dumpster diving isn't limited to searching through the trash for obvious treasures like access codes or passwords written down on sticky notes.",
+        "date": "11/12/2020"
+	},
+	{
+		"word": "Shoulder Surfing",
+        "definition": "The practice of spying on the user of a cash-dispensing machine or other electronic device in order to obtain their personal identification number, password, etc.",
+        "date": "14/12/2020"
+	},
+	{
+		"word": "Hoax",
+        "definition": "Hoaxes are emails typically arriving in chain letter fashion that often describe impossible events, highly damaging malware or urban legends. Their intent is to frighten and mislead recipients and get them to forward to friends.",
+        "date": "15/12/2020"
+	},
+	{
+		"word": "Denial of Service (DOS)",
+        "definition": "A Denial-of-Service (DoS) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attacks accomplish this by flooding the target with traffic, or sending it information that triggers a crash. In both instances, the DoS attack deprives legitimate users (i.e. employees, members, or account holders) of the service or resource they expected.",
+        "date": "16/12/2020"
+	},
+	{
+		"word": "Distributed Denial of Service (DDOS)",
+        "definition": "Where Dos attacks are conducted using a single attacking system DDos attacks are carried out using multiple attack systems, In most cases, the attackers create what is known as a Zombie Network, made up of compromised systems that are unwilling participants in the attack",
+        "date": "17/12/2020"
+	},
+	{
+		"word": "Watering Hole Attack",
+        "definition": "A cyberattack targeting a particular organization, in which malware is installed on a website or websites regularly visited by the organization's members in order to infect computers used within the organization itself.",
+        "date": "18/12/2020"
+	},
+	{
+		"word": "Man In The Middle Attack (MITM)",
+        "definition": "A man-in-the-middle attack is when an attacker intercepts communications between two parties either to secretly eavesdrop or modify traffic traveling between the two. Attackers might use MitM attacks to steal login credentials or personal information, spy on the victim, or sabotage communications or corrupt data.",
+        "date": "21/12/2020"
+	},
+	{
+		"word": "Cross Site Scripting (XSS)",
+        "definition": "Another attack that takes advantage of user input not being validated properly. XSS is one of the most common web attacks, if the input is not validated properly, an attacker can include their script in the input and have it rendered as part of the web process.",
+        "date": "22/12/2020"
+	},
+	{
+		"word": "Injection",
+        "definition": "An injection attack is a malicious code injected in the network which fetched all the information from the database to the attacker. This attack type is considered a major problem in web security and is listed as the number one web application security risk in the OWASP Top 10. SQL Injection flaws are introduced when software developers create dynamic database queries that include user-supplied input.",
+        "date": "23/12/2020"
+	}
+]
