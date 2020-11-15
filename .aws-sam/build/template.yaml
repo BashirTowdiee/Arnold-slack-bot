@@ -23,7 +23,7 @@ Resources:
         Arnold:
           Type: Schedule
           Properties:
-            Schedule: cron(0 0-5 ? * MON-FRI *)
+            Schedule: cron(0 * ? * SUN-FRI *)
   ArnoldFunctionRole:
     Type: AWS::IAM::Role
     Properties:

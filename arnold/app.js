@@ -17,7 +17,7 @@ exports.lambdaHandler = async () => {
       });
       const timeSplit = time.split(":");
       console.log('Lambda activated');
-      if (timeSplit[0] === 11) {
+      if (timeSplit[0] === 10) {
         console.log('Lambda run wordOfTheDay');
         return wordOfTheDay();
       } else if (timeSplit[0] === 12) {
