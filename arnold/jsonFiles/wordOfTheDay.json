@@ -1,7 +1,7 @@
 [
 	{
-		"word": "Polymorphic Malware",
-        "definition": "A polymorphic virus is a type of malware that can change or morph, making it difficult to detect with antimalware programs. They can evolve in a variety of ways such as filename changes, compression, and encryption with variable keys",
+		"word": "Backdoor Malware",
+        "definition": "A backdoor is a malware type that negates normal authentication procedures to access a system. As a result, remote access is granted to resources within an application, such as databases and file servers, giving perpetrators the ability to remotely issue system commands and update malware.",
         "date": "16/11/2020"
 	},
 	{
@@ -70,8 +70,8 @@
         "date": "3/12/2020"
 	},
 	{
-		"word": "Backdoor Malware",
-        "definition": "A backdoor is a malware type that negates normal authentication procedures to access a system. As a result, remote access is granted to resources within an application, such as databases and file servers, giving perpetrators the ability to remotely issue system commands and update malware.",
+		"word": "",
+        "definition": "",
         "date": "4/12/2020"
 	},
 	{

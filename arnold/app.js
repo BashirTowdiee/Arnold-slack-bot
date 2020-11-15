@@ -12,18 +12,17 @@ exports.lambdaHandler = async () => {
   } else {
     try {
       let date = new Date();
-      let time = date.toLocaleTimeString("en-GB", {
-        timeZone: "Australia/Melbourne",
-      });
-      const timeSplit = time.split(":");
+      let hour = date.getHours();
+
       console.log('Lambda activated');
-      if (timeSplit[0] === 10) {
+      console.log('hour', hour);
+      if (hour === 0) {
         console.log('Lambda run wordOfTheDay');
         return wordOfTheDay();
-      } else if (timeSplit[0] === 12) {
+      } else if (hour === 1) {
         console.log('Lambda run popQuiz');
         return popQuiz();
-      } else if (timeSplit[0] === 14) {
+      } else if (hour === 3) {
         console.log('Lambda run popQuizAnswer');
         return popQuizAnswer();
       }
